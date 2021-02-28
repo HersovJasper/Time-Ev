@@ -1,0 +1,40 @@
+# Created by Octave 5.2.0, Sun Feb 28 11:07:21 2021 GMT <unknown@DESKTOP-708BVLH>
+# name: basis
+# type: sparse matrix
+# nnz: 2
+# rows: 2
+# columns: 2
+1 1 1
+2 2 1
+
+
+# name: HU
+# type: sparse matrix
+# nnz: 0
+# rows: 2
+# columns: 2
+
+
+# name: HE
+# type: matrix
+# ndims: 3
+ 2 2 2
+ 1
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1
+
+
+# name: HJ
+# type: sparse matrix
+# nnz: 2
+# rows: 2
+# columns: 2
+2 1 -1
+1 2 -1
+
+

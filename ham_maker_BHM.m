@@ -22,7 +22,7 @@
 clear all
 tic
 
-N=5 ;		% Number of atoms in the environment
+N=2 ;		% Number of atoms in the environment
 M=2;		% Number of energy levels (modes) in the environment
 
 % Creates the directory which the matrices will be saved to
