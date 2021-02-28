@@ -10,8 +10,8 @@ hbar = 1;
 %%%%%%%%%%%%%%%%%%
 %% Parameters	%%
 %%%%%%%%%%%%%%%%%%
-N=3;        % Number of atoms
-M=5;        % Number of wells/modes - fixed to 2
+N=5;        % Number of atoms
+M=2;        % Number of wells/modes - fixed to 2
 E = zeros(M,1);   % Energy of well set to zero
 %E=rand(M,1);      % could look at random well depths to see if this has a difference 
 J  = 1;    % Tunnelling constant
