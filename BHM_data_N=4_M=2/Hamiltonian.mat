@@ -1,0 +1,99 @@
+# Created by Octave 5.2.0, Sun Feb 28 11:42:54 2021 GMT <unknown@DESKTOP-708BVLH>
+# name: basis
+# type: sparse matrix
+# nnz: 8
+# rows: 5
+# columns: 2
+1 1 4
+2 1 3
+3 1 2
+4 1 1
+2 2 1
+3 2 2
+4 2 3
+5 2 4
+
+
+# name: HU
+# type: sparse matrix
+# nnz: 5
+# rows: 5
+# columns: 5
+1 1 12
+2 2 6
+3 3 4
+4 4 6
+5 5 12
+
+
+# name: HE
+# type: matrix
+# ndims: 3
+ 5 5 2
+ 4
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 0
+ 1
+ 0
+ 0
+ 0
+ 0
+ 0
+ 2
+ 0
+ 0
+ 0
+ 0
+ 0
+ 3
+ 0
+ 0
+ 0
+ 0
+ 0
+ 4
+
+
+# name: HJ
+# type: sparse matrix
+# nnz: 8
+# rows: 5
+# columns: 5
+2 1 -2
+1 2 -2
+3 2 -2.4494897427831779
+2 3 -2.4494897427831779
+4 3 -2.4494897427831779
+3 4 -2.4494897427831779
+5 4 -2
+4 5 -2
+
+
